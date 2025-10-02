@@ -1,0 +1,80 @@
+id,Data,Produto,Categoria,Quantidade,Preço,Total de Vendas
+2,2023-11-27,Placa-mãe ASUS Prime B660M,Placa-mãe,2,1263.57,2527.14
+1,2023-03-22,Processador Intel Core i7 13ª Geração,Processador,1,1938.78,1938.78
+4,2023-01-25,SSD NVMe 1TB,Armazenamento,5,444.64,2223.2
+9,2023-10-17,Water cooler 240mm,Water cooler,2,440.26,880.52
+1,2023-04-19,Processador Intel Core i7 13ª Geração,Processador,3,1657.05,4971.15
+7,2023-01-01,Gabinete ATX com lateral em vidro,Gabinete,39,250.35,9763.65
+2,2023-02-05,Placa-mãe ASUS Prime B660M,Placa-mãe,12,958.81,11505.72
+5,2023-10-02,Placa de vídeo NVIDIA RTX 4070 Ti,Placa de vídeo,2,5412.77,10825.54
+3,2023-06-23,Memória RAM DDR5 16GB 5200MHz,Memória RAM,52,565.63,29412.76
+7,2023-10-21,Gabinete ATX com lateral em vidro,Gabinete,23,316.68,7283.64
+1,2023-01-28,Processador Intel Core i7 13ª Geração,Processador,1,2421.11,2421.11
+2,2023-12-29,Placa-mãe ASUS Prime B660M,Placa-mãe,22,936.03,20592.66
+6,2023-03-19,Fonte modular 750W 80 Plus Gold,Fonte,4,587.83,2351.32
+2,2023-07-07,Placa-mãe ASUS Prime B660M,Placa-mãe,25,999.83,24995.75
+3,2023-06-18,Memória RAM DDR5 16GB 5200MHz,Memória RAM,17,411.41,6993.97
+2,2023-07-13,Placa-mãe ASUS Prime B660M,Placa-mãe,21,949.79,19945.59
+2,2023-11-29,Placa-mãe ASUS Prime B660M,Placa-mãe,5,1209.48,6047.4
+5,2023-04-16,Placa de vídeo NVIDIA RTX 4070 Ti,Placa de vídeo,13,4191.46,54488.98
+1,2023-06-28,Processador Intel Core i7 13ª Geração,Processador,3,1798.47,5395.41
+9,2023-03-13,Water cooler 240mm,Water cooler,1,696.2,696.2
+2,2023-09-11,Placa-mãe ASUS Prime B660M,Placa-mãe,18,1253.09,22555.62
+4,2023-11-13,SSD NVMe 1TB,Armazenamento,7,692.69,4848.83
+10,2023-12-25,Ventoinha RGB 120mm,Ventoinha,7,90.72,635.04
+2,2023-01-26,Placa-mãe ASUS Prime B660M,Placa-mãe,21,1069.32,22455.719999999998
+9,2023-08-26,Water cooler 240mm,Water cooler,1,641.13,641.13
+9,2023-06-13,Water cooler 240mm,Water cooler,2,550.65,1101.3
+9,2023-09-26,Water cooler 240mm,Water cooler,2,356.68,713.36
+8,2023-08-05,Cooler a ar para CPU,Cooler a ar,5,168.26,841.3
+6,2023-07-03,Fonte modular 750W 80 Plus Gold,Fonte,3,569.99,1709.97
+7,2023-05-02,Gabinete ATX com lateral em vidro,Gabinete,7,466.25,3263.75
+9,2023-05-26,Water cooler 240mm,Water cooler,2,387.06,774.12
+10,2023-06-19,Ventoinha RGB 120mm,Ventoinha,9,119.45,1075.05
+5,2023-06-05,Placa de vídeo NVIDIA RTX 4070 Ti,Placa de vídeo,7,4768.01,33376.07
+7,2023-02-28,Gabinete ATX com lateral em vidro,Gabinete,12,468.23,5618.76
+8,2023-10-04,Cooler a ar para CPU,Cooler a ar,6,293.93,1763.58
+3,2023-07-10,Memória RAM DDR5 16GB 5200MHz,Memória RAM,26,577.36,15011.36
+3,2023-08-21,Memória RAM DDR5 16GB 5200MHz,Memória RAM,25,452.3,11307.5
+4,2023-04-28,SSD NVMe 1TB,Armazenamento,5,615.12,3075.6
+5,2023-08-24,Placa de vídeo NVIDIA RTX 4070 Ti,Placa de vídeo,5,5275.22,26376.100000000002
+1,2023-04-08,Processador Intel Core i7 13ª Geração,Processador,1,1707.57,1707.57
+9,2023-06-12,Water cooler 240mm,Water cooler,2,629.76,1259.52
+10,2023-02-24,Ventoinha RGB 120mm,Ventoinha,6,59.51,357.06
+3,2023-02-07,Memória RAM DDR5 16GB 5200MHz,Memória RAM,18,324.72,5844.960000000001
+3,2023-04-23,Memória RAM DDR5 16GB 5200MHz,Memória RAM,29,469.51,13615.789999999999
+10,2023-05-28,Ventoinha RGB 120mm,Ventoinha,5,75.22,376.1
+4,2023-07-08,SSD NVMe 1TB,Armazenamento,7,663.82,4646.740000000001
+4,2023-03-25,SSD NVMe 1TB,Armazenamento,8,376.23,3009.84
+6,2023-12-27,Fonte modular 750W 80 Plus Gold,Fonte,3,491.05,1473.15
+10,2023-10-22,Ventoinha RGB 120mm,Ventoinha,8,82.82,662.56
+9,2023-02-12,Water cooler 240mm,Water cooler,2,577.23,1154.46
+9,2023-05-01,Water cooler 240mm,Water cooler,1,385.59,385.59
+8,2023-12-15,Cooler a ar para CPU,Cooler a ar,7,222.58,1558.0600000000002
+5,2023-01-16,Placa de vídeo NVIDIA RTX 4070 Ti,Placa de vídeo,6,4732.64,28395.840000000004
+9,2023-05-13,Water cooler 240mm,Water cooler,1,656.71,656.71
+2,2023-07-07,Placa-mãe ASUS Prime B660M,Placa-mãe,7,1346.74,9427.18
+7,2023-07-08,Gabinete ATX com lateral em vidro,Gabinete,32,347.42,11117.44
+10,2023-07-11,Ventoinha RGB 120mm,Ventoinha,5,50.12,250.6
+5,2023-05-11,Placa de vídeo NVIDIA RTX 4070 Ti,Placa de vídeo,12,5473.04,65676.48
+10,2023-10-24,Ventoinha RGB 120mm,Ventoinha,5,60.61,303.05
+6,2023-01-06,Fonte modular 750W 80 Plus Gold,Fonte,4,785.35,3141.4
+6,2023-10-07,Fonte modular 750W 80 Plus Gold,Fonte,4,463.81,1855.24
+4,2023-04-22,SSD NVMe 1TB,Armazenamento,5,585.94,2929.7000000000003
+8,2023-01-20,Cooler a ar para CPU,Cooler a ar,7,165.84,1160.88
+1,2023-10-22,Processador Intel Core i7 13ª Geração,Processador,3,2054.2,6162.599999999999
+2,2023-03-03,Placa-mãe ASUS Prime B660M,Placa-mãe,6,1036.01,6216.0599999999995
+7,2023-06-30,Gabinete ATX com lateral em vidro,Gabinete,37,506.78,18750.86
+4,2023-08-05,SSD NVMe 1TB,Armazenamento,6,595.06,3570.3599999999997
+4,2023-04-07,SSD NVMe 1TB,Armazenamento,5,419.31,2096.55
+7,2023-01-19,Gabinete ATX com lateral em vidro,Gabinete,19,527.82,10028.580000000002
+8,2023-10-30,Cooler a ar para CPU,Cooler a ar,7,238.51,1669.57
+7,2023-01-15,Gabinete ATX com lateral em vidro,Gabinete,18,378.08,6805.44
+6,2023-11-21,Fonte modular 750W 80 Plus Gold,Fonte,4,505.58,2022.32
+5,2023-09-02,Placa de vídeo NVIDIA RTX 4070 Ti,Placa de vídeo,12,5159.9,61918.799999999996
+4,2023-04-29,SSD NVMe 1TB,Armazenamento,8,673.89,5391.12
+10,2023-04-01,Ventoinha RGB 120mm,Ventoinha,8,57.45,459.6
+8,2023-01-18,Cooler a ar para CPU,Cooler a ar,6,137.91,827.46
+3,2023-10-30,Memória RAM DDR5 16GB 5200MHz,Memória RAM,28,342.85,9599.800000000001
+6,2023-06-26,Fonte modular 750W 80 Plus Gold,Fonte,3,674.18,2022.54
+9,2023-10-07,Water cooler 240mm,Water cooler,1,537.49,537.49
