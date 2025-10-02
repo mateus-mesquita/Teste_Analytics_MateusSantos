@@ -20,11 +20,11 @@ Além disso, foram incluídas consultas SQL para manipulação e extração de i
   - `SQLAlchemy` (para integração com PostgreSQL)  
 
 ## 🔎 Estrutura do Repositório  
-- `case_quoud.ipynb` → Notebook com a simulação de dados e EDA.  
-- `2.ipynb` → Complemento de análises e testes adicionais.  
+- `simulacao_tratamento.ipynb` → Notebook com a simulação e tratamento de dados.  
+- `eda_vendas.ipynb` → Notebook com análise exploratória de dados.  
 - `consultas.sql` → Arquivo com queries SQL.  
-- `dados_vendas.csv` → Base de vendas simulada.  
-- `dados_clean.db` → Base intermediária de dados (antes da carga no PostgreSQL).  
+- `dados_clean.csv` → Base de vendas simulada.
+- `Resultados e Relatório de Insights`  
 - `README.md` → Documentação do projeto.  
 
 ## 📊 Etapas  
@@ -67,3 +67,15 @@ Durante a **simulação dos dados** e **análises**, algumas suposições foram 
 1. Clone este repositório:  
    ```bash
    git clone <url-do-repo>
+
+2. Instale as dependências
+
+  ```pip install pandas plotly psycopg2-binary sqlalchemy```
+
+3. Execute os Notebooks na ordem:
+  - simulacao_tratamento.ipynb → geração e tratamento de dados.
+  - eda_vendas.ipynb → análise exploratória.
+
+4. Carregue os dados no PostgreSQL e rode as queries em consultas.sql.
+
+5. Consulte o arquivo ``relatorio_insights.md`` para visualizar as conclusões e recomendações finais.
